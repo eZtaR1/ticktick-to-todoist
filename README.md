@@ -3,6 +3,7 @@
 A Python utility to convert TickTick CSV exports to Todoist CSV import format, with support for:
 - Task titles and descriptions
 - Due dates
+- Completed tasks
 - Labels (converted from TickTick folders, lists, and tags)
 - Task hierarchies (parent/child relationships)
 - Task priorities
